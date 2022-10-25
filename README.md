@@ -13,6 +13,6 @@ Este algoritmo foi replicado por mim a nivel didatico.
   
 ## Como executar ?
 
-1° Baixe o repositorio 
+1° Baixe o repositorio. 
   
-2° execute o arquivo index.html no seu navegador (Dê preferencia para navegadores mais atuais, Ex: Chrome, OperaGx, Mozila, Microsoft Edge).
+2° Execute o arquivo index.html no seu navegador (Dê preferência para navegadores mais atuais, Ex: Chrome, OperaGx, Mozila, Microsoft Edge).
